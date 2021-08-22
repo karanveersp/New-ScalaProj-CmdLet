@@ -1,0 +1,1 @@
+. $psScriptRoot\NewScalaProj.ps1
