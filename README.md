@@ -8,7 +8,7 @@ ScalaVersion = 2.13.6
 To install, clone this project directory to the modules folder.
 ```
 cd ~/Documents/PowerShell/Modules
-git clone 
+git clone https://github.com/karanveersp/New-ScalaProj-CmdLet
 ```
 
 Add the following to your `~\Documents\PowerShell\Microsoft.PowerShell_profile.ps1`
