@@ -24,3 +24,9 @@ cd MyProject
 code . -r
 ```
 
+The project skeleton is located here:
+
+```
+https://github.com/karanveersp/skeleton
+```
+
